@@ -25,6 +25,11 @@ sbt runNode
 
 # Links and References
 
+* [Akka Docker for Scala Apps](https://medium.com/jeroen-rosenberg/lightweight-docker-containers-for-scala-apps-11b99cf1a666)
+* [Akka k8s](https://github.com/ouven/akka-k8s-seednode)
+* [Akka Cluster k8s](https://github.com/lkysow/akka-cluster-on-kubernetes)
+* [Akka router](https://medium.com/akka-for-newbies/routers-5a501cdf616d)
+
 * [Akka Docker Cluster Example Blog](http://blog.michaelhamrah.com/2014/03/running-an-akka-cluster-with-docker-containers/)
 * [Akka Docker Cluster Example Github](https://github.com/mhamrah/akka-docker-cluster-example)
 * [Docker Networking](https://docs.docker.com/articles/networking/)
